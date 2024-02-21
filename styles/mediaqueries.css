@@ -1,0 +1,25 @@
+@media (max-width: 834px) {
+  .header {
+    padding: 0;
+  }
+  .header__nav {
+    justify-content: center;
+  }
+  .main__page {
+    flex-direction: column;
+    padding: 0%;
+  }
+  .main__page__section__title {
+    width: 100%;
+  }
+  .aside__page__section__letter__text {
+    width: 100%;
+  }
+  .aside__page__pictures__img {
+    flex-direction: column;
+    width: 95%;
+  }
+  .aside__page__pictures__img__image {
+    width: 100%;
+  }
+}
